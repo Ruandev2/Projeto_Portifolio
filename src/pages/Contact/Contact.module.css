@@ -1,0 +1,15 @@
+.contact{
+    text-align: center;
+}
+
+.contact label{
+    color: #1b1919;
+}
+
+form label {
+    display:block;
+    font-size: 20px;
+    margin: 20px 0 10px;
+    font-family: 'Gotu', sans-serif;
+    font-weight: bold;
+}
